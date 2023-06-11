@@ -69,7 +69,7 @@ header a:hover{
     background-image:url('images\\design.jpg');
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: cover;
     min-height:400px;
     color:white;
    
